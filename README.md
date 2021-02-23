@@ -45,4 +45,3 @@ This is in development. Could be buggy. If you get any kind of error please repo
 <p align="left">
 <a href="https://github.com/hackelite01"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fhackelite01%2FInstagramDownloadBot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fhackelite01%2FInstagramDownloadBot)
