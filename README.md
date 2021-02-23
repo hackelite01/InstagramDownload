@@ -23,11 +23,7 @@ python -m install -r requirements.txt
 python InstagramDownloadBot.py
 ```
 
-### Releases:
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/hackelite01/InstagramDownloadBot?logo=github)](https://github.com/hackelite01/InstagramDownloadBot/releases)
 
-<details>
-  <summary>Important</summary>
   
 #### ![GitHub top language](https://img.shields.io/github/languages/top/hackelite01/InstagramDownloadBot?logo=python)
   
